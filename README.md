@@ -12,7 +12,7 @@ This project helps candidates understand how their resume matches job requiremen
 - Paste a **job description**
 - Automatic **job role detection**
 - Resume similarity using **TF-IDF + Cosine Similarity**
-- **Matched skills detection**
+- **Matched skills detection** 
 - **Missing skills identification**
 - **ATS score calculation**
 - **Skill gap analysis**
